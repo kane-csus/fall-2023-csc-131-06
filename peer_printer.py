@@ -22,7 +22,7 @@ SEMESTER = ['Fall 2023']
 
 
 class Person:
-    '''
+  '''
     This class is the Person class. It represents basic person info.
     Attributes
     ----------
@@ -31,54 +31,59 @@ class Person:
     likes_pineapple_pizza : bool
         whether this person likes pineapple on pizza or not
     '''
-    # Python constructor to initialize attributes (fields in Java)
 
-    def __init__(self, name: str, likes_pineapple_pizza: bool):
-        self.name = name
-        self.likes_pineapple_pizza = likes_pineapple_pizza
+  # Python constructor to initialize attributes (fields in Java)
 
-    # Special Python method used to represent a class's objects as a string
-    def __repr__(self):
-        return self.name
+  def __init__(self, name: str, likes_pineapple_pizza: bool):
+    self.name = name
+    self.likes_pineapple_pizza = likes_pineapple_pizza
+
+  # Special Python method used to represent a class's objects as a string
+  def __repr__(self):
+    return self.name
 
 
 def main():
-    # Person objects (alphabetical order by first name)
-    gary_kane = Person('Gary Kane', False)
-    isabel_santoyogarcia = Person('Isabel Santoyo-Garcia', True)
-    jomel_sotelo = Person('Jomel Sotelo', True)
-    mia_brady = Person('Mia Brady', False)
+  # Person objects (alphabetical order by first name)
+  ava_brady = Person('Ava Brady', False)
+  gary_kane = Person('Gary Kane', False)
+  isabel_santoyogarcia = Person('Isabel Santoyo-Garcia', True)
+  jomel_sotelo = Person('Jomel Sotelo', True)
+  mia_brady = Person('Mia Brady', False)
 
-    # List of people in our class (alphabetical order by first name)
-    peers = [gary_kane, isabel_santoyogarcia, jomel_sotelo, mia_brady]
+  # List of people in our class (alphabetical order by first name)
+  peers = [ava_brady, gary_kane, isabel_santoyogarcia, jomel_sotelo, mia_brady]
 
-    # Print out people in our class
-    print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))
-    print("Peers: %s" % peers)
+  # Print out people in our class
+  print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))
+  print("Peers: %s" % peers)
 
-    # Logic to see who likes pineapple pizza (alphabetical order by first name)
-    if gary_kane.likes_pineapple_pizza:
-        print("%s likes pineapple pizza" % gary_kane.name)
-    else:
-        print("%s DOES NOT like pineapple pizza" % gary_kane.name)
+  # Logic to see who likes pineapple pizza (alphabetical order by first name)
+  if ava_brady.likes_pineapple_pizza:
+    print("%s likes pineapple pizza" % ava_brady.name)
+  else:
+    print("%s DOES NOT like pineapple pizza" % ava_brady.name)
 
-    if isabel_santoyogarcia.likes_pineapple_pizza:
-        print("%s likes pineapple pizza" % isabel_santoyogarcia.name)
-    else:
-        print("%s DOES NOT like pineapple pizza" % isabel_santoyogarcia.name)
+  if gary_kane.likes_pineapple_pizza:
+    print("%s likes pineapple pizza" % gary_kane.name)
+  else:
+    print("%s DOES NOT like pineapple pizza" % gary_kane.name)
 
-    if jomel_sotelo.likes_pineapple_pizza:
-        print("%s likes pineapple pizza" % jomel_sotelo.name)
-    else:
-        print("%s DOES NOT like pineapple pizza" % jomel_sotelo.name)
-        
-    if mia_brady.likes_pineapple_pizza:
-        print("%s likes pineapple pizza" % mia_brady.name)
-    else:
-        print("%s DOES NOT like pineapple pizza" % mia_brady.name)
+  if isabel_santoyogarcia.likes_pineapple_pizza:
+    print("%s likes pineapple pizza" % isabel_santoyogarcia.name)
+  else:
+    print("%s DOES NOT like pineapple pizza" % isabel_santoyogarcia.name)
 
+  if jomel_sotelo.likes_pineapple_pizza:
+    print("%s likes pineapple pizza" % jomel_sotelo.name)
+  else:
+    print("%s DOES NOT like pineapple pizza" % jomel_sotelo.name)
 
+  if mia_brady.likes_pineapple_pizza:
+    print("%s likes pineapple pizza" % mia_brady.name)
+  else:
+    print("%s DOES NOT like pineapple pizza" % mia_brady.name)
 
 
 if __name__ == "__main__":
-    main()
+  main()
