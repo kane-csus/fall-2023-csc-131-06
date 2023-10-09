@@ -45,7 +45,7 @@ class Person:
 def main():
     # Person objects (alphabetical order by first name)
 <<<<<<< HEAD
-    aaron_goodlund = Person('Aaron Goodlind', True)
+    aaron_goodlund = Person('Aaron Goodlund', True)
 =======
     aye_myat_noe_khin = Person('Aye Myat Noe Khin', True)
 >>>>>>> 696db3d4bdd5973393f6410d491cabed7aad3922
