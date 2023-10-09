@@ -44,11 +44,10 @@ class Person:
 
 def main():
     # Person objects (alphabetical order by first name)
-<<<<<<< HEAD
+
     aaron_goodlund = Person('Aaron Goodlund', True)
-=======
+
     aye_myat_noe_khin = Person('Aye Myat Noe Khin', True)
->>>>>>> 696db3d4bdd5973393f6410d491cabed7aad3922
     danica_galang = Person('Danica Galang', True)
     gary_kane = Person('Gary Kane', False)
     isabel_santoyogarcia = Person('Isabel Santoyo-Garcia', True)
@@ -57,29 +56,28 @@ def main():
 
 
     # List of people in our class (alphabetical order by first name)
-<<<<<<< HEAD
+
     peers = [aaron_goodlund, danica_galang, gary_kane, isabel_santoyogarcia, jomel_sotelo, mia_brady]
-=======
+
     peers = [aye_myat_noe_khin, danica_galang, gary_kane, isabel_santoyogarcia, jomel_sotelo, mia_brady]
->>>>>>> 696db3d4bdd5973393f6410d491cabed7aad3922
+
 
     # Print out people in our class
     print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))
     print("Peers: %s" % peers)
 
     # Logic to see who likes pineapple pizza (alphabetical order by first name)
-<<<<<<< HEAD
     if aaron_goodlund.likes_pineapple_pizza:
         print("%s likes pineapple pizza" % aaron_goodlund.name)
     else:
         print("%s DOES NOT like pineapple pizza" % aaron_goodlund.name)    
-=======
+
     if aye_myat_noe_khin.likes_pineapple_pizza:
         print("%s likes pineapple pizza" % aye_myat_noe_khin.name)
     else:
         print("%s DOES NOT like pineapple pizza" % aye_myat_noe_khin.name)
 
->>>>>>> 696db3d4bdd5973393f6410d491cabed7aad3922
+
     if danica_galang.likes_pineapple_pizza:
         print("%s likes pineapple pizza" % danica_galang.name)
     else:
