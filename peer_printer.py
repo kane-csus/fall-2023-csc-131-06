@@ -49,10 +49,11 @@ def main():
     gary_kane = Person('Gary Kane', False)
     isabel_santoyogarcia = Person('Isabel Santoyo-Garcia', True)
     jomel_sotelo = Person('Jomel Sotelo', True)
+    mansoor_ali = Person('Mansoor Ali', True)
     mia_brady = Person('Mia Brady', False)
 
     # List of people in our class (alphabetical order by first name)
-    peers = [aye_myat_noe_khin, danica_galang, gary_kane, isabel_santoyogarcia, jomel_sotelo, mia_brady]
+    peers = [aye_myat_noe_khin, danica_galang, gary_kane, isabel_santoyogarcia, jomel_sotelo, mansoor_ali, mia_brady]
 
     # Print out people in our class
     print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))
@@ -82,6 +83,11 @@ def main():
         print("%s likes pineapple pizza" % jomel_sotelo.name)
     else:
         print("%s DOES NOT like pineapple pizza" % jomel_sotelo.name)
+        
+    if mansoor_ali.likes_pineapple_pizza:
+        print("%s likes pineapple pizza" % mansoor_ali.name)
+    else:
+        print("%s DOES NOT like pineapple pizza" % mansoor_ali.name)
         
     if mia_brady.likes_pineapple_pizza:
         print("%s likes pineapple pizza" % mia_brady.name)
