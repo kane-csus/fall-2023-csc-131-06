@@ -56,9 +56,10 @@ def main():
   mansoor_ali = Person('Mansoor Ali', True)
   mia_brady = Person('Mia Brady', False)
   phong_ho = Person('Phong Ho', True)
+  william_lorence = Person('William Lorence', False)
 
   # List of people in our class (alphabetical order by first name)
-  peers = [ava_brady, aaron_goodlund, aye_myat_noe_khin, danica_galang, gary_kane, isabel_santoyogarcia, jomel_sotelo, mansoor_ali, mia_brady, phong_ho]
+  peers = [ava_brady, aaron_goodlund, aye_myat_noe_kin, danica_galang, gary_kane, isabel_santoyogarcia, jomel_sotelo, mansoor_ali, mia_brady, phong_ho, william_lorence]
 
 
   # Print out people in our class
@@ -116,6 +117,10 @@ def main():
   else:
       print("%s DOES NOT like pineapple pizza" % phong_ho.name)
 
+  if william_lorence.likes_pineapple_pizza:
+      print("%s likes pineapple pizza" % william_lorence.name)
+  else:
+      print("%s DOES NOT like pineapple pizza" % william_lorence.name)
 
 if __name__ == "__main__":
   main()
