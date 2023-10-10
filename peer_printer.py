@@ -60,7 +60,7 @@ def main():
   william_lorence = Person('William Lorence', False)
 
   # List of people in our class (alphabetical order by first name)
-  peers = [ava_brady, aaron_goodlund, aye_myat_noe_kin, danica_galang, gary_kane, isabel_santoyogarcia, jomel_sotelo, mansoor_ali, mia_brady, phong_ho, william_lorence]
+  peers = [ava_brady, aaron_goodlund, aye_myat_noe_khin, danica_galang, gary_kane, isabel_santoyogarcia, jomel_sotelo, mansoor_ali, mia_brady, phong_ho, william_lorence]
 
 
   # Print out people in our class
