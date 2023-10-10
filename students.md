@@ -11,6 +11,7 @@ A list of peers in CSC 131-06 Fall 2023
 * Isabel Santoyo-Garcia
 * Jenica Chu
 * Jomel Sotelo
+* Jose Vasquez
 * Katy Chan
 * Mansoor Ali
 * Mia Brady
