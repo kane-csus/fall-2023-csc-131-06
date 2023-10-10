@@ -59,7 +59,7 @@ def main():
   phong_ho = Person('Phong Ho', True)
 
   # List of people in our class (alphabetical order by first name)
-  peers = [ava_brady, aaron_goodlund, aye_myat_noe_khin, danica_galang, gary_kane, isabel_santoyogarcia, jomel_sotelo, mansoor_ali, mia_brady, phong_ho]
+  peers = [ava_brady, aaron_goodlund, aye_myat_noe_khin, brandon_nguyen, danica_galang, gary_kane, isabel_santoyogarcia, jomel_sotelo, mansoor_ali, mia_brady, phong_ho]
 
 
   # Print out people in our class
@@ -83,7 +83,7 @@ def main():
       print("%s DOES NOT like pineapple pizza" % aye_myat_noe_khin.name)
 
   if brandon_nguyen.likes_pineapple_pizza:
-      print("%s likes pineapple pizza" %brandon_nguyen.name)
+      print("%s likes pineapple pizza" % brandon_nguyen.name)
   else:
       print("%s DOES NOT like pineapple pizza" % brandon_nguyen.name)
 
