@@ -70,11 +70,8 @@ def main():
 
 
   # List of people in our class (alphabetical order by first name)
-<<<<<<< HEAD
   peers = [ava_brady, aaron_goodlund, aye_myat_noe_khin, brandon_nguyen, danica_galang, gary_kane, isabel_santoyogarcia, jenica_chu, jomel_sotelo,jose_vasquez, katy_chan, kevin_esquivel, mansoor_ali, mia_brady, phong_ho, prabhnoor_kaur, ricardo_torres, william_lorence]
-=======
   peers = [ aaron_goodlund, alonso_delatorre, ava_brady, aye_myat_noe_khin, brandon_nguyen, danica_galang, gary_kane, isabel_santoyogarcia, jenica_chu, jomel_sotelo,jose_vasquez, katy_chan, kevin_esquivel, mansoor_ali, mia_brady, phong_ho, ricardo_torres, wei_chong, william_lorence]
->>>>>>> bc4450f58fd39c2ec41a26762e41e56aa3331911
 
   # Print out people in our class
   print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))
