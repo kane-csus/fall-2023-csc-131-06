@@ -53,6 +53,7 @@ def main():
   brandon_nguyen = Person('Brandon Nguyen', True)
   danica_galang = Person('Danica Galang', True)
   gary_kane = Person('Gary Kane', False)
+  hector_yabes = Person('Hector Yabes', False)
   isabel_santoyogarcia = Person('Isabel Santoyo-Garcia', True)
   jenica_chu = Person('Jenica Chu', True)
   jomel_sotelo = Person('Jomel Sotelo', True)
@@ -115,6 +116,11 @@ def main():
       print("%s likes pineapple pizza" % gary_kane.name)
   else:
       print("%s DOES NOT like pineapple pizza" % gary_kane.name)
+   
+  if hector_yabes.likes_pineapple_pizza:
+      print("%s likes pineapple pizza" % hector_yabes.name)
+  else:
+      print("%s DOES NOT like pineapple pizza" % hector_yabes.name)
 
   if isabel_santoyogarcia.likes_pineapple_pizza:
     print("%s likes pineapple pizza" % isabel_santoyogarcia.name)
