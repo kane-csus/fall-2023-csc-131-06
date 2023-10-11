@@ -1,0 +1,4 @@
+name: Kevin Esquivel
+email: kesquivel@csus.edu
+Github Account: AggressiveGas
+Favorite Hobby: homebrewing switches
