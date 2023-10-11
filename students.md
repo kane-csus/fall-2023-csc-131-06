@@ -1,9 +1,10 @@
 A list of peers in CSC 131-06 Fall 2023
 --------------------------------------------------
 
-*Please keep this list in alphabetical order by first name.*
-* Ava Brady
+* Please keep this list in alphabetical order by first name.*
 * Aaron Goodlund
+* Alonso De La Torre
+* Ava Brady
 * Aye Myat Noe Khin
 * Brandon Nguyen
 * Danica Galang
