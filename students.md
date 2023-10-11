@@ -17,5 +17,6 @@ A list of peers in CSC 131-06 Fall 2023
 * Mansoor Ali
 * Mia Brady
 * Phong Ho
+* Prabhnoor Kaur
 * Ricardo Torres
 * William Lorence
