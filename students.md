@@ -22,5 +22,7 @@ A list of peers in CSC 131-06 Fall 2023
 * Phong Ho
 * Prabhnoor Kaur
 * Ricardo Torres
+* Sasha Saaed-Marmorstein
 * Wei Chong
 * William Lorence
+
