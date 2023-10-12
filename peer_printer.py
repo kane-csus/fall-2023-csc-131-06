@@ -78,7 +78,6 @@ def main():
 
   # List of people in our class (alphabetical order by first name)
   # Removed and merged the duplicate peer list. -SL
-  #peers = [ava_brady, aaron_goodlund, aye_myat_noe_khin, brandon_nguyen, danica_galang, diego_serrano ,gary_kane, isabel_santoyogarcia, jenica_chu, jomel_sotelo,jose_vasquez, katy_chan, kevin_esquivel, mansoor_ali, mia_brady, phong_ho, prabhnoor_kaur, ricardo_torres, sasha_saaed, william_lorence]
   peers = [ aaron_goodlund, alonso_delatorre, ava_brady, aye_myat_noe_khin, brandon_nguyen, danica_galang, diego_serrano ,gary_kane, isabel_santoyogarcia, jenica_chu, jomel_sotelo,jose_vasquez, katy_chan, kevin_esquivel, mansoor_ali, mia_brady, phong_ho, prabhnoor_kaur, ricardo_torres, sasha_saaed, sheridan_lynch, wei_chong, william_lorence]
 
   # Print out people in our class
