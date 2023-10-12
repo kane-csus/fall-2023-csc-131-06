@@ -26,7 +26,7 @@ _Please keep this list in alphabetical order by first name._
 - Keyur Maru
 - Mansoor Ali
 - Mia Brady
-- Oscar Lu
+- Oscar LU
 - Phong Ho
 - Prabhnoor Kaur
 - Rachel Azwell
