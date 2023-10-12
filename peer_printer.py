@@ -48,6 +48,7 @@ def main():
   # Person objects (alphabetical order by first name)
   aaron_goodlund = Person('Aaron Goodlund', True)
   alonso_delatorre = Person('Alonso De La Torre', True)
+  angel_ramirez = Person('Angel Ramirez', True)
   ava_brady = Person('Ava Brady', False)
   aye_myat_noe_khin = Person('Aye Myat Noe Khin', True)
   brandon_nguyen = Person('Brandon Nguyen', True)
