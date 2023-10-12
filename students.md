@@ -8,10 +8,10 @@ A list of peers in CSC 131-06 Fall 2023
 * Angel Ramirez
 * Ava Brady
 * Aye Myat Noe Khin
-* Evan Callejo
 * Brandon Nguyen
 * Danica Galang
 * Diego Serrano
+* Evan Callejo
 * Gary Kane
 * Hector Yabes
 * Isabel Santoyo-Garcia
