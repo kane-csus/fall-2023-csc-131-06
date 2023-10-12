@@ -57,6 +57,7 @@ def main():
   diego_serrano = Person('Diego Serrano', True)
   evan_callejo = Person('Evan Callejo', False)
   gary_kane = Person('Gary Kane', False)
+  harmanjot_singh = Person('Harmanjot Singh', False)
   hector_yabes = Person('Hector Yabes', False)
   isabel_santoyogarcia = Person('Isabel Santoyo-Garcia', True)
   jacky_low = Person('Jacky Low', True)
@@ -81,7 +82,11 @@ def main():
 
   # List of people in our class (alphabetical order by first name)
   # Removed and merged the duplicate peer list. -SL
+<<<<<<< HEAD
   peers = [ aaron_goodlund, ajaydeep_singh, alonso_delatorre, ava_brady, aye_myat_noe_khin, brandon_nguyen, danica_galang, diego_serrano, evan_callejo, gary_kane, isabel_santoyogarcia,jacky_low, jenica_chu, jomel_sotelo,jose_vasquez, katy_chan, 
+=======
+  peers = [ aaron_goodlund, ajaydeep_singh, alonso_delatorre, ava_brady, aye_myat_noe_khin, brandon_nguyen, danica_galang, diego_serrano, evan_callejo, gary_kane, harmanjot_singh, isabel_santoyogarcia, jenica_chu, jomel_sotelo,jose_vasquez, katy_chan, 
+>>>>>>> 2342ec32354d5cbfd51dd0bc150cd47c355b451e
 kevin_esquivel, keyur_maru, mansoor_ali, mia_brady, phong_ho, prabhnoor_kaur, ricardo_torres, sasha_saaed, sheridan_lynch, wei_chong, william_lorence]
 
   # Print out people in our class
@@ -139,6 +144,11 @@ kevin_esquivel, keyur_maru, mansoor_ali, mia_brady, phong_ho, prabhnoor_kaur, ri
       print("%s likes pineapple pizza" % gary_kane.name)
   else:
       print("%s DOES NOT like pineapple pizza" % gary_kane.name)
+      
+  if harmanjot_singh.likes_pineapple_pizza:
+      print("%s likes pineapple pizza" % harmanjot_singh.name)
+  else:
+      print("%s DOES NOT like pineapple pizza" % harmanjot_singh.name)
    
   if hector_yabes.likes_pineapple_pizza:
       print("%s likes pineapple pizza" % hector_yabes.name)
