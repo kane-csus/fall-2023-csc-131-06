@@ -1,4 +1,4 @@
 name: Qasim Ali
 email: qali@csus.edu
 Github Account: qali03
-Favorite Food: Pizza
+Favorite Hobby: Watching Movies
