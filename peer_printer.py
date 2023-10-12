@@ -54,6 +54,7 @@ def main():
   brandon_nguyen = Person('Brandon Nguyen', True)
   danica_galang = Person('Danica Galang', True)
   diego_serrano = Person('Diego Serrano', True)
+  evan_callejo = Person('Evan Callejo', False)
   gary_kane = Person('Gary Kane', False)
   hector_yabes = Person('Hector Yabes', False)
   isabel_santoyogarcia = Person('Isabel Santoyo-Garcia', True)
@@ -78,7 +79,7 @@ def main():
 
   # List of people in our class (alphabetical order by first name)
   # Removed and merged the duplicate peer list. -SL
-  peers = [ aaron_goodlund, alonso_delatorre, ava_brady, aye_myat_noe_khin, brandon_nguyen, danica_galang, diego_serrano ,gary_kane, isabel_santoyogarcia, jenica_chu, jomel_sotelo,jose_vasquez, katy_chan, kevin_esquivel, mansoor_ali, mia_brady, phong_ho, prabhnoor_kaur, ricardo_torres, sasha_saaed, sheridan_lynch, wei_chong, william_lorence]
+  peers = [ aaron_goodlund, alonso_delatorre, ava_brady, aye_myat_noe_khin, brandon_nguyen, danica_galang, diego_serrano, evan_callejo, gary_kane, isabel_santoyogarcia, jenica_chu, jomel_sotelo,jose_vasquez, katy_chan, kevin_esquivel, mansoor_ali, mia_brady, phong_ho, prabhnoor_kaur, ricardo_torres, sasha_saaed, sheridan_lynch, wei_chong, william_lorence]
 
   # Print out people in our class
   print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))
@@ -120,7 +121,12 @@ def main():
       print("%s likes pineapple pizza" % diego_serrano.name)
   else:
       print("%s DOES NOT like pineapple pizza" %danica_galang.name)
-    
+
+  if evan_callejo.likes_pineapple_pizza:
+      print("%s likes pineapple pizza" % evan_callejo.name)
+  else:
+      print("%s DOES NOT like pineapple pizza" % evan_callejo.name)
+      
   if gary_kane.likes_pineapple_pizza:
       print("%s likes pineapple pizza" % gary_kane.name)
   else:
