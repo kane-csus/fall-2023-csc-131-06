@@ -67,6 +67,7 @@ def main():
   prabhnoor_kaur = Person('Prabhnoor Kaur', True)
   ricardo_torres = Person('Ricardo Torres', True)
   sasha_saaed = Person('Sasha Saaed',True)
+  tony_tran = Person ('Tony Tran' ,True)
   wei_chong = Person('Wei Chong', True)
   william_lorence = Person('William Lorence', False)
 
@@ -185,6 +186,12 @@ def main():
       print("%s likes pineapple pizza" % sasha_saaed.name)
   else:
       print("%s DOES NOT like pineapple pizza" % sasha_saaed.name)
+
+  if tony_tran.likes_pineapple_pizza:
+      print("%s likes pineapple pizza" % tony_tran.name)
+  else:
+      print("%s DOES NOT like pineapple pizza" % tony_tran.name)
+
   
   
   if wei_chong.likes_pineapple_pizza:
@@ -195,6 +202,7 @@ def main():
   if william_lorence.likes_pineapple_pizza:
       print("%s likes pineapple pizza" % william_lorence.name)
   else:
+
       print("%s DOES NOT like pineapple pizza" % william_lorence.name)
 
   
