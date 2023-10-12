@@ -5,10 +5,13 @@ A list of peers in CSC 131-06 Fall 2023
 * Aaron Goodlund
 * Ajaydeep Singh
 * Alonso De La Torre
+* Angel Ramirez
 * Ava Brady
 * Aye Myat Noe Khin
+* Evan Callejo
 * Brandon Nguyen
 * Danica Galang
+* Diego Serrano
 * Gary Kane
 * Hector Yabes
 * Isabel Santoyo-Garcia
@@ -17,6 +20,7 @@ A list of peers in CSC 131-06 Fall 2023
 * Jose Vasquez
 * Katy Chan
 * Kevin Esquivel
+* Keyur Maru
 * Mansoor Ali
 * Mia Brady
 * Oscar Lu
@@ -24,6 +28,7 @@ A list of peers in CSC 131-06 Fall 2023
 * Prabhnoor Kaur
 * Ricardo Torres
 * Sasha Saaed-Marmorstein
+* Sheridan Lynch
 * Tony Tran
 * Wei Chong
 * William Lorence
