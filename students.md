@@ -38,3 +38,4 @@ _Please keep this list in alphabetical order by first name._
 - Wei Chong
 - William Lorence
 - Xavier Umeda
+- Yashwardhan rathore
