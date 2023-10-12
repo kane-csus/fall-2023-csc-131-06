@@ -5,6 +5,7 @@ A list of peers in CSC 131-06 Fall 2023
 * Aaron Goodlund
 * Ajaydeep Singh
 * Alonso De La Torre
+* Angel Ramirez
 * Ava Brady
 * Aye Myat Noe Khin
 * Brandon Nguyen
@@ -27,4 +28,4 @@ A list of peers in CSC 131-06 Fall 2023
 * Tony Tran
 * Wei Chong
 * William Lorence
-* Angel Ramirez
+
