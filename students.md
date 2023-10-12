@@ -10,6 +10,7 @@ A list of peers in CSC 131-06 Fall 2023
 * Aye Myat Noe Khin
 * Brandon Nguyen
 * Danica Galang
+* Diego Serrano
 * Gary Kane
 * Hector Yabes
 * Isabel Santoyo-Garcia
