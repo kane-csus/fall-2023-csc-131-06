@@ -29,6 +29,7 @@ _Please keep this list in alphabetical order by first name._
 - Oscar LU
 - Phong Ho
 - Prabhnoor Kaur
+- Qasim Ali
 - Rachel Azwell
 - Ricardo Torres
 - Sasha Saaed-Marmorstein

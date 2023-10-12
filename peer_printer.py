@@ -73,6 +73,7 @@ def main():
     oscar_lu = Person('Oscar Lu', False)
     phong_ho = Person('Phong Ho', True)
     prabhnoor_kaur = Person('Prabhnoor Kaur', True)
+    qasim_ali = Person('Qasim Ali', False)
     ricardo_torres = Person('Ricardo Torres', True)
     sasha_saaed = Person('Sasha Saaed', True)
     sheridan_lynch = Person('Sheridan Lynch', True)
