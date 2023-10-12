@@ -70,7 +70,7 @@ def main():
     keyur_maru = Person('Keyur Maru', True)
     mansoor_ali = Person('Mansoor Ali', False)
     mia_brady = Person('Mia Brady', False)
-    oscar_lu = Person('Oscar Lu', True)
+    oscar_lu = Person('Oscar Lu', False)
     phong_ho = Person('Phong Ho', True)
     prabhnoor_kaur = Person('Prabhnoor Kaur', True)
     ricardo_torres = Person('Ricardo Torres', True)
