@@ -13,8 +13,10 @@ A list of peers in CSC 131-06 Fall 2023
 * Diego Serrano
 * Evan Callejo
 * Gary Kane
+* Harmanjot Singh
 * Hector Yabes
 * Isabel Santoyo-Garcia
+* Jacky Low
 * Jenica Chu
 * Jomel Sotelo
 * Jose Vasquez
