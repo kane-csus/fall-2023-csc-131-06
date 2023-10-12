@@ -29,6 +29,7 @@ A list of peers in CSC 131-06 Fall 2023
 * Ricardo Torres
 * Sasha Saaed-Marmorstein
 * Sheridan Lynch
+* Spencer Headspeth
 * Tony Tran
 * Wei Chong
 * William Lorence
